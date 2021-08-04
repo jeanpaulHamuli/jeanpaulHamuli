@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-
-[![Linkedin](https://www.linkedin.com/in/jean-paul-hamuli-4337a6192/)
+[![Linkedin](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jean-paul-hamuli-4337a6192/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 ## I'm Jean-Paul HAMULI, a Developer, I'm really enjoy coding in PHP, JavaScript and frameworks like React, React-Native, Vue.js and Node.js !!
 
