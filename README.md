@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="JP | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/jeanpaulhamuli)
 [<img align="left" alt="JP | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jean-paul-hamuli-4337a6192/)
 [<img align="left" alt="JP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hamulijeanpaul/?hl=fr)
-[<img align="left" alt="JP | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.facebook.com/jeanpaul.hamuli/)
+[<img align="left" alt="JP | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/jeanpaul.hamuli/)
 
 <br />
 
